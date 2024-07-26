@@ -17,6 +17,6 @@ Proyectos Destacados
               Proyecto del grupo de trabajo de desarrollo full stack 
 
 Contacto
-Correo Electrónico:Lmbibianochiel@gmail.com
+Correo Electrónico:Lmbibianochile@gmail.com
 LinkedIn: https://www.linkedin.com/in/luis-bibiano-40a206185/
 Sitio Web/Portafolio: https://github.com/lmbibiano?tab=repositories
